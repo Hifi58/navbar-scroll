@@ -7,6 +7,6 @@ function slideDown() {
         document.getElementById("navbar").style.top = "0px";
     }
     if(toppixel < 1){
-        document.getElementById("navbar").style.top = "-52px";
+        document.getElementById("navbar").style.top = "-56px";
     }
    }
